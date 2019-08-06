@@ -1,4 +1,3 @@
-
 num = int(input())
 
 phone_book = {}
