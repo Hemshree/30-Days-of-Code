@@ -1,4 +1,3 @@
-
 input()
 
 arr = str(input()).split(" ")
