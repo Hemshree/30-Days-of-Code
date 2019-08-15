@@ -1,4 +1,3 @@
-
 arr = []
 
 for _ in range(6):
